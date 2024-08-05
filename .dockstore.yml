@@ -4,3 +4,4 @@ workflows:
     primaryDescriptorPath: /hello_input_wdl_example.wdl
   - subclass: GALAXY
     primaryDescriptorPath: /tac.ga
+    name: galaxy_test
